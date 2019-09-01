@@ -1,5 +1,5 @@
 # rm-tool
-command line remove tool for macOS
+command line remove tool for macOS.
 
 # requirement
 ```
