@@ -1,8 +1,19 @@
 # rm-tool
-command line remove tool for macOS.
+command line remove tool for macOS and Linux.
 
-# requirement
+## mac
+### Install
 ```
-brew install trash 
+wget https://raw.githubusercontent.com/ruanima/rm-tool/master/rm-mac.py
 ```
 
+### requirement
+```
+brew install trash
+```
+
+## linux
+### Install
+```
+wget https://raw.githubusercontent.com/ruanima/rm-tool/master/rm-linux.py
+```
